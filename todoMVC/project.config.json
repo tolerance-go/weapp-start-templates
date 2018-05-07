@@ -6,14 +6,14 @@
 	"setting": {
 		"urlCheck": true,
 		"es6": false,
-		"postcss": true,
-		"minified": true,
+		"postcss": false,
+		"minified": false,
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.98",
 	"appid": "touristappid",
-	"projectname": "standard-project",
+	"projectname": "weapp-tpl-todo",
 	"miniprogramRoot": "./dist",
 	"condition": {
 		"search": {
