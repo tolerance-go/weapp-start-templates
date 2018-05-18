@@ -6,4 +6,9 @@ module.exports = {
     'weapp-plugin-pug',
     'weapp-plugin-eslint',
   ],
+  env: {
+    production: {
+      plugins: ['weapp-plugin-jsmin', 'weapp-plugin-filemin', 'weapp-plugin-imgmin'],
+    },
+  },
 };
