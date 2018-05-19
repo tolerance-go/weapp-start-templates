@@ -4,6 +4,7 @@
     "update": "npm i weapp-plugin-babel@latest weapp-plugin-eslint@latest weapp-plugin-less@latest weapp-plugin-pug@latest weapp-plugin-require@latest weapp-plugin-stylus@latest weapp-plugin-filter@latest weapp-plugin-jsmin@latest weapp-plugin-filemin@latest weapp-plugin-imgmin@latest weapp-plugin-postcss@latest -D"
   },
   "devDependencies": {
+    "autoprefixer": "^8.5.0",
     "babel-core": "^6.26.3",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
