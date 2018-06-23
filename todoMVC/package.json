@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "update": "npm i weapp-plugin-babel@latest weapp-plugin-eslint@latest weapp-plugin-less@latest weapp-plugin-pug@latest weapp-plugin-require@latest weapp-plugin-stylus@latest weapp-plugin-filter@latest weapp-plugin-jsmin@latest weapp-plugin-filemin@latest weapp-plugin-imgmin@latest weapp-plugin-postcss@latest -D"
+    "update":
+      "npm i weapp-plugin-babel@latest weapp-plugin-eslint@latest weapp-plugin-less@latest weapp-plugin-pug@latest weapp-plugin-require@latest weapp-plugin-stylus@latest weapp-plugin-filter@latest weapp-plugin-jsmin@latest weapp-plugin-filemin@latest weapp-plugin-imgmin@latest weapp-plugin-postcss@latest -D"
   },
   "devDependencies": {
     "autoprefixer": "^8.5.0",
@@ -31,6 +32,6 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "lodash": "^4.17.10"
+    "lodash": "4.17.5"
   }
 }
